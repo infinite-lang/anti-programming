@@ -1,8 +1,5 @@
-# anti-programming
+# [Concept / Idea] anti-programming
 An unconventional way to write a program by telling what NOT to do
-
-# Status
-Concept / Idea
 
 # Origin
 When develop a software, regardless of small or big, there always be some bugs in the code.
